@@ -1,0 +1,17 @@
+.Checkbox {
+  input[type='checkbox'] {
+    display: none;
+  }
+
+  .checkbox-label {
+    display: inline-block;
+    user-select: none;
+    padding: 3px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+
+  input:checked + .checkbox-label {
+    background-color: #4bbef3c2;
+  }
+}

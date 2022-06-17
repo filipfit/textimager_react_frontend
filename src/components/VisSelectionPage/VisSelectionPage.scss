@@ -1,0 +1,13 @@
+.VisSelectionPage {
+  display: flex;
+  justify-content: center;
+
+  .form-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .file-selection {
+    margin-bottom: 20px;
+  }
+}

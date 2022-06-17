@@ -1,0 +1,18 @@
+{
+  "NE-hist": {
+    "route": "/histogram",
+    "type": "ne"
+  },
+  "POS-hist": {
+    "route": "/histogram",
+    "type": "pos"
+  },
+  "POS-textmark": {
+    "route": "/textmark",
+    "type": "pos"
+  },
+  "NE-textmark": {
+    "route": "/textmark",
+    "type": "ne"
+  }
+}
